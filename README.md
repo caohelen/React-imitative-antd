@@ -1,12 +1,8 @@
-# 回顾预习录播
-
 ![image-20200624150720936](https://tva1.sinaimg.cn/large/007S8ZIlly1gg3e95zyq5j30b40ppq5a.jpg)
 
 # React 组件化
 
 [TOC]
-
-## 课堂目标
 
 掌握组件化开发中多种实现技术
 
@@ -22,19 +18,14 @@
 2. [HOC](https://reactjs.org/docs/higher-order-components.html)
 
 3. [ant design](https://ant.design/docs/react/use-with-create-react-app-cn)
-
-4. [课堂代码地址](https://github.com/bubucuo/kkb-react)
-
-## 知识点
-
 ### 快速开始
 
 (https://www.html.cn/create-react-app/docs/getting-started/)
 
 ```bash
-npx create-react-app lesson1
+npx create-react-app React-imitative-antd
 
-cd lesson1
+cd React-imitative-antd
 
 yarn start
 ```
