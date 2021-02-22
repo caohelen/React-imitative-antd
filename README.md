@@ -1,5 +1,3 @@
-![image-20200624150720936](https://tva1.sinaimg.cn/large/007S8ZIlly1gg3e95zyq5j30b40ppq5a.jpg)
-
 # React 组件化
 
 [TOC]
